@@ -15,7 +15,7 @@ This package intends to make your Laravel app extensible via modules. A module i
 Run the following command:
 
 ```bash
-composer require akaunting/module
+composer require conttas/laravel-module
 ```
 
 ### 2. Register
